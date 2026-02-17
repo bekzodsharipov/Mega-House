@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family: "Kuunari";
+    src: url("../font/kuunari-bold-subset.v2.woff2") format("woff2");
+    font-weight: 700;
+    font-display: swap;
+}
